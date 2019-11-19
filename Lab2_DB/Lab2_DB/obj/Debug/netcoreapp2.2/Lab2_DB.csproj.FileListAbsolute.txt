@@ -1,0 +1,11 @@
+C:\Users\Hanna\Desktop\БД\Lab2_DB\Lab2_DB\bin\Debug\netcoreapp2.2\Lab2_DB.deps.json
+C:\Users\Hanna\Desktop\БД\Lab2_DB\Lab2_DB\bin\Debug\netcoreapp2.2\Lab2_DB.runtimeconfig.json
+C:\Users\Hanna\Desktop\БД\Lab2_DB\Lab2_DB\bin\Debug\netcoreapp2.2\Lab2_DB.runtimeconfig.dev.json
+C:\Users\Hanna\Desktop\БД\Lab2_DB\Lab2_DB\bin\Debug\netcoreapp2.2\Lab2_DB.dll
+C:\Users\Hanna\Desktop\БД\Lab2_DB\Lab2_DB\obj\Debug\netcoreapp2.2\Lab2_DB.csprojAssemblyReference.cache
+C:\Users\Hanna\Desktop\БД\Lab2_DB\Lab2_DB\obj\Debug\netcoreapp2.2\Lab2_DB.csproj.CoreCompileInputs.cache
+C:\Users\Hanna\Desktop\БД\Lab2_DB\Lab2_DB\obj\Debug\netcoreapp2.2\Lab2_DB.AssemblyInfoInputs.cache
+C:\Users\Hanna\Desktop\БД\Lab2_DB\Lab2_DB\obj\Debug\netcoreapp2.2\Lab2_DB.AssemblyInfo.cs
+C:\Users\Hanna\Desktop\БД\Lab2_DB\Lab2_DB\bin\Debug\netcoreapp2.2\Lab2_DB.pdb
+C:\Users\Hanna\Desktop\БД\Lab2_DB\Lab2_DB\obj\Debug\netcoreapp2.2\Lab2_DB.dll
+C:\Users\Hanna\Desktop\БД\Lab2_DB\Lab2_DB\obj\Debug\netcoreapp2.2\Lab2_DB.pdb
